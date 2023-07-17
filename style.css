@@ -1,0 +1,62 @@
+.button{
+   
+    
+}
+.one{
+    background-color: #00ffff;
+   background-size: cover;
+}
+.one h1{
+    color: yellow;
+}
+.one strong{
+    color: white;
+}
+.section{
+    
+}
+.aa-h1-h2-p{
+    background-color: white;
+}
+.btn-outline-success{
+    margin: 80px;
+    margin-top: 10px;
+    
+}
+
+.container{
+    display: flex;
+   justify-content: right;
+}
+.container-fluid{
+    justify-content: center;
+}
+.aa{
+    margin-left:35% ;
+    margin-right:25% ;
+}
+
+.ii{
+    margin-left:30%  ;
+    margin-right:30% ;
+}
+.form-floating{
+   
+   margin-right:30% ;
+   margin-left:37%  ;
+    
+}
+.two{
+    margin-left:24% ;
+    margin-right:10% ;
+}
+.jj{
+    display: flex;
+    justify-content: center;
+}
+.hh{
+    background-color: rgb(175, 85, 85);
+}
+.pp{
+    background-color: burlywood;
+}
